@@ -37,5 +37,6 @@ Script and snippets for Blender Add-on BonsaiBIM
   -    *  Actor id
        *  Descrioption
        *  Classifications
+
 ![Image](Highlighted_Task_and_associated_Actors_panel.png)
 
