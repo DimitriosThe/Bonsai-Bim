@@ -20,4 +20,4 @@ Script and snippets for Blender Add-on BonsaiBIM
   -   Option to select the task in the sequence module \n(Opens the workschedule and selects the task)
 
 
-![Image](actors_tasks/Actors_assigned_to_tasks.png)
+![Image](Actors_assigned_to_tasks.png)
