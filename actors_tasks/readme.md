@@ -1,6 +1,6 @@
 # Bonsai-Bim
 Script and snippets for Blender Add-on BonsaiBIM
-### BL_PNL_ACT_TASK_ACTOR_.py
+### BL_PNL_ACT_TASKS.py
 ---
   #### Shows:
   -  Actors in file
